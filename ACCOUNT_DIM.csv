@@ -1,0 +1,15 @@
+﻿Account, Parent, Data Storage, Account Type, Time Balance, Skip Value, Source Plan Type, Plan Type (SALT), Aggregation (SALT)
+Operating Sales,Account,never share,revenue,flow,none,SALT,TRUE,+
+Revenue1,Operating Sales,never share,revenue,flow,none,SALT,TRUE,+
+Revenue2,Operating Sales,never share,revenue,flow,none,SALT,TRUE,+
+Revenue3,Operating Sales,never share,revenue,flow,none,SALT,TRUE,+
+Revenue4,Operating Sales,never share,revenue,flow,none,SALT,TRUE,+
+Revenue5,Operating Sales,never share,revenue,flow,none,SALT,TRUE,+
+Expense1,Operating Expense,never share,revenue,flow,none,SALT,TRUE,+
+Expense2,Operating Expense,never share,revenue,flow,none,SALT,TRUE,+
+Expense3,Operating Expense,never share,revenue,flow,none,SALT,TRUE,+
+Expense4,Operating Expense,never share,revenue,flow,none,SALT,TRUE,+
+Expense5,Operating Expense,never share,revenue,flow,none,SALT,TRUE,+
+Exchange Rates,Account,label only,revenue,average,missing,SALT,TRUE,~
+FX Rates - Average,Exchange Rates,store,revenue,average,missing,SALT,TRUE,~
+FX Rates - Ending,Exchange Rates,store,revenue,average,missing,SALT,TRUE,~
